@@ -1,0 +1,33 @@
+Student Name: RATHNAWEERA R.P.B.P
+Index Number: EG/2023/5828
+Project Name: Nexus-Inventory-App
+Tech Stack: Vue 3 (Composition API), TypeScript, Tailwind CSS v4, Vite
+API Source: DummyJSON Products API
+
+--- PROJECT GENERATIVE AI LOG ---
+
+The aim 01: Initial setup of a Vue 3 project with TypeScript and Vite.
+Actual prompt: "How to set up a Vue 3 project with TypeScript and Vite for a GUI assignment?"
+
+The aim 02: Ensure strict type safety for the application.
+Actual prompt: "Define a strict TypeScript interface for DummyJSON product data and API responses to avoid using 'any' types."
+
+The aim 03: Building a clean component-based architecture.
+Actual prompt: "Provide code for a reusable NavBar.vue and a ProductCard.vue that uses props for data passing."
+
+The aim 04: Fetching dynamic data from an external API.
+Actual prompt: "How to fetch data from DummyJSON API using Vue 3 onMounted hook and handle loading states?"
+
+The aim 05: Adding search and filtering functionality.
+Actual prompt: "Implement a real-time search filter using computed properties in Vue 3 to filter products by their title."
+
+The aim 06: Solving PostCSS and Tailwind CSS v4 configuration errors.
+Actual prompt: "I am getting an error 'The PostCSS plugin has moved to a separate package'. How to configure @tailwindcss/postcss and update style.css for version 4?"
+
+The aim 07: Implementation of a Detail View modal (Requirement 6).
+Actual prompt: "How to create a modal popup to show expanded product details when a user clicks on a product card?"
+
+The aim 08: Finalizing the UI and code integration.
+Actual prompt: "Provide the complete final App.vue code that integrates search, the product grid, and the detail modal with proper Tailwind class synchronization."
+
+--- END OF LOG ---
